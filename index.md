@@ -19,5 +19,5 @@ title: Understanding Machine
 
 [Understanding-Machine (fireworksr)](https://understanding-machine.github.io/fireworksr/)
 
-[Understanding-Machine (depsekr)](https://understanding-machine.github.io/depsekr/)
+[Understanding-Machine (depsekrp)](https://understanding-machine.github.io/depsekrp/)
 
