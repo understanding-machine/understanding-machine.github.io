@@ -1,2 +1,2 @@
 ### Understanding Machine
-A Machine that reasons.
+A Machine that understands (ἐπιστήμη = understanding).
