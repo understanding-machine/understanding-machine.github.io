@@ -1,19 +1,23 @@
 ---
 layout: home
-title: Reasoning Machine
+title: Understanding Machine
 ---
-# Reasoning Machine
+# Understanding Machine
 
 <pre>
   'Machina Ratiocinatrix' is a term used by Norbert Wiener in the introduction to his 
   book "Cybernetics, or Control and Communication in the Animal and the Machine".
 </pre>
 
-[Reasoning-Machine (meta)](https://reasoning-machine.github.io/meta/)
+[Understanding-Machine (meta)](https://understanding-machine.github.io/meta/)
 
-[Reasoning-Machine (openai)](https://reasoning-machine.github.io/openai/)
+[Understanding-Machine (geminit)](https://understanding-machine.github.io/geminit/)
 
-[Reasoning-Machine (fireworks)](https://reasoning-machine.github.io/fireworks/)
+[Understanding-Machine (oaio)](https://understanding-machine.github.io/oaio/)
 
-[Reasoning-Machine (depsek)](https://reasoning-machine.github.io/depsek/)
+[Understanding-Machine (grok)](https://understanding-machine.github.io/grok/)
+
+[Understanding-Machine (fireworksr)](https://understanding-machine.github.io/fireworksr/)
+
+[Understanding-Machine (depsekr)](https://understanding-machine.github.io/depsekr/)
 
